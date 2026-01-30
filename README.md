@@ -4,8 +4,7 @@ Programa en C++ que implementa la suma paralela de arreglos utilizando OpenMP (O
 
 ## Descripción
 
-Este proyecto es parte de la actividad "Tarea 1. Programación de una solución paralela
-" del módulo 2 de Cómputo en la Nube del programa MNA en ITESM. Implementa un algoritmo de suma de arreglos que utiliza paralelización para mejorar el rendimiento.
+Este proyecto es parte de la actividad **Tarea 1. Programación de una solución paralela** del módulo 2 de **Cómputo en la Nube** del programa MNA en ITESM. Implementa un algoritmo de suma de arreglos que utiliza paralelización para mejorar el rendimiento.
 
 ## Requisitos
 
