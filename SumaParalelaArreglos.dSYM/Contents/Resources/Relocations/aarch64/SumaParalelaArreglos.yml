@@ -2,10 +2,10 @@
 triple:          'arm64-apple-darwin'
 binary-path:     "/Users/cremercado/Documents/Educación/Posgrado/ITESM/MNA/Cómputo en la nube/Módulo 2/Semana 3/SumaParalelaArreglos/SumaParalelaArreglos"
 relocations:
-  - { offset: 0x2479, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0xFDEC, symBinAddr: 0x100008000, symSize: 0x0 }
-  - { offset: 0x2585, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100000748, symSize: 0x444 }
-  - { offset: 0x259C, size: 0x8, addend: 0x0, symName: _main._omp_fn.0, symObjAddr: 0x4D0, symBinAddr: 0x100000C18, symSize: 0xE4 }
-  - { offset: 0x276E, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_SumaParalelaArreglos.cpp, symObjAddr: 0x6C0, symBinAddr: 0x100000D38, symSize: 0x14 }
-  - { offset: 0x2785, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x684, symBinAddr: 0x100000CFC, symSize: 0x3C }
-  - { offset: 0x27A3, size: 0x8, addend: 0x0, symName: __Z14imprimeArregloPfi, symObjAddr: 0x444, symBinAddr: 0x100000B8C, symSize: 0x8C }
+  - { offset: 0x2479, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0xFDD4, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x2585, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100000748, symSize: 0x430 }
+  - { offset: 0x259C, size: 0x8, addend: 0x0, symName: _main._omp_fn.0, symObjAddr: 0x4BC, symBinAddr: 0x100000C04, symSize: 0xE4 }
+  - { offset: 0x276E, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_SumaParalelaArreglos.cpp, symObjAddr: 0x6A8, symBinAddr: 0x100000D24, symSize: 0x14 }
+  - { offset: 0x2785, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x66C, symBinAddr: 0x100000CE8, symSize: 0x3C }
+  - { offset: 0x27A3, size: 0x8, addend: 0x0, symName: __Z14imprimeArregloPfi, symObjAddr: 0x430, symBinAddr: 0x100000B78, symSize: 0x8C }
 ...
